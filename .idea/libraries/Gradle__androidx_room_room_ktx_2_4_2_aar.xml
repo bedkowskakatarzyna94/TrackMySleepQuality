@@ -2,8 +2,8 @@
   <library name="Gradle: androidx.room:room-ktx:2.4.2@aar">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd713a727d5436e8380a95595433dbc0/jetified-room-ktx-2.4.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd713a727d5436e8380a95595433dbc0/jetified-room-ktx-2.4.2/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd713a727d5436e8380a95595433dbc0/jetified-room-ktx-2.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd713a727d5436e8380a95595433dbc0/jetified-room-ktx-2.4.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
